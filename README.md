@@ -1,0 +1,4 @@
+Xiangqi
+=======
+
+Xiangqi (Chinese: 象棋, p Xiàngqí) is an abstract strategy board game for two players. It is one of the most popular board games in China, and is in the same family as "Western" (or "international") chess, chaturanga, shogi, Indian chess and janggi. Besides China and areas with significant ethnic Chinese communities, xiangqi (cờ tướng) is also a popular pastime in Vietnam. The game represents a battle between two armies, with the object of capturing the enemy's general (king). Distinctive features of xiangqi include the cannon (pao), which must jump to capture; a rule prohibiting the generals from facing each other directly; areas on the board called the river and palace, which restrict the movement of some pieces (but enhance that of others); and placement of the pieces on the intersections of the board lines, rather than within the squares.
